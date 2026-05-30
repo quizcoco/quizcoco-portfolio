@@ -1,8 +1,21 @@
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
+import {
+defineConfig
+}
+from "vite"
 
-// https://vite.dev/config/
+import vue
+from
+"@vitejs/plugin-vue"
+
 export default defineConfig({
-  plugins: [vue()],
-  base: '/quizcoco-portfolio/'
+
+plugins:[
+
+vue()
+
+],
+
+base:
+"/quizcoco-portfolio/"
+
 })

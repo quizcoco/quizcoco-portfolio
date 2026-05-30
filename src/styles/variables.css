@@ -1,0 +1,33 @@
+:root{
+
+--bg:#ffffff;
+--bg-gradient-end: white;
+
+--card:#fafafa;
+
+--text:#222;
+
+--sub:#666;
+
+--border:#ececec;
+
+--primary:#bf6061;
+
+
+
+}
+
+.dark{
+
+--bg:#171717;
+--bg-gradient-end: #171717; /* 또는 카드 배경색 */
+
+--card:#222;
+
+--text:#fff;
+
+--sub:#aaa;
+
+--border:#444;
+
+}
