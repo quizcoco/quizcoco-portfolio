@@ -13,7 +13,7 @@ summary:"게임형식 학습 웹 서비스로, 퀴즈를 통해 학습자들이 
  bg: quizcoco,
  urls:[{
     name:"Live Demo",
-    link:"http://3.25.140.200:8080/"}],
+    link:"https://quizcoco.pages.dev"}],
 
 stack:[
 "Java",
